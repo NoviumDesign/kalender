@@ -1,0 +1,124 @@
+//= require_tree ./vendor
+//= require_tree ./lib
+
+a:link, a:visited, a:active, a:hover
+  color: #fc5d07
+  text-decoration: none
+
+  &:hover
+    text-decoration: underline
+
+.hide
+  display: none
+
+.box
+  box-sizing: border-box
+  padding-top: 17px
+  font-size: 40px
+  color: #fff
+  text-align: center
+  border: 3px solid #8b2d05
+  border-radius: 6px
+  text-shadow: 0px 1px 2px #000
+
+#wrapper
+  position: relative
+  width: 810px
+  height: 1176px
+  background-image: url('../images/background.jpg')
+
+  .container
+    position: relative
+    top: 343px
+    width: 540px
+    height: 525px
+    margin: auto 
+
+    .box
+      float: left
+      width: 88px
+      height: 88px
+      margin: 10px
+      box-shadow: 0 0 2px 0px #8b2d05
+      cursor: pointer
+
+      background: #a90329 /* Old browsers */
+      background: -moz-linear-gradient(-45deg, #a90329 0%, #ec5349 37%, #e2231d 52%, #ed554a 69%, #db0100 100%) /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#a90329), color-stop(37%,#ec5349), color-stop(52%,#e2231d), color-stop(69%,#ed554a), color-stop(100%,#db0100)) /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, #a90329 0%,#ec5349 37%,#e2231d 52%,#ed554a 69%,#db0100 100%) /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(-45deg, #a90329 0%,#ec5349 37%,#e2231d 52%,#ed554a 69%,#db0100 100%) /* Opera 11.10+ */
+      background: -ms-linear-gradient(-45deg, #a90329 0%,#ec5349 37%,#e2231d 52%,#ed554a 69%,#db0100 100%) /* IE10+ */
+      background: linear-gradient(135deg, #a90329 0%,#ec5349 37%,#e2231d 52%,#ed554a 69%,#db0100 100%) /* W3C */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#db0100',GradientType=1 ) /* IE6-9 fallback on horizontal gradient */
+
+      &:hover
+        color: #f4f4f4
+
+  .darken
+    position: absolute
+    z-index: 1
+    top: 0
+    width: 100%
+    height: 100%
+    background-color: rgba(0, 0, 0, 0.4)
+
+  .popup
+    position: absolute
+    z-index: 2
+    top: 300px
+    left: 104px
+    width: 600px
+    background-color: #fff
+    border: 1px solid #c4c3c3
+    box-shadow: 0 1px 2px 0px #000
+
+    .close
+      position: absolute
+      box-sizing: border-box
+      top: 10px
+      right: 10px
+      width: 40px
+      height: 40px
+      background-color: #fff
+      border: 3px solid #000
+      border-radius: 20px
+      padding-top: 14px
+      line-height: 0
+      text-align: center
+      font-size: 40px
+      cursor: pointer
+      opacity: 0.5
+
+      &:hover
+        opacity: 1
+
+    .head
+
+    .body
+      padding-top: 20px
+      padding-bottom: 20px
+      overflow: auto
+
+      .left
+        float: left 
+        box-sizing: border-box
+        width: 125px
+        color: #c4c3c3
+
+        .box
+          width: 75px
+          height: 75px
+          margin: 40px auto
+          background-color: red
+          padding-top: 12px
+
+      .right
+        float: left
+        box-sizing: border-box
+        width: 475px
+        padding: 10px 20px 10px 0
+
+    .foot
+      width: 600px
+      height: 100px
+      display: block

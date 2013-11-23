@@ -1,0 +1,31 @@
+date:
+
+- {
+    date: 1,
+    background: '#fff',
+    image-head: 'http://placehold.it/600x150',
+    image-foot: 'http://placehold.it/600x100',
+    foot-link: 'http://google.com',
+    heading: 'This is bullshit',
+    text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+  }
+
+- {
+  date: 23,
+  background: '#fff',
+  image-head: 'http://placehold.it/600x150',
+  image-foot: 'http://placehold.it/600x100',
+  foot-link: 'http://google.com',
+  heading: 'This is bullshit',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 24,
+  background: '#fff',
+  image-head: 'http://placehold.it/600x150',
+  image-foot: 'http://placehold.it/600x100',
+  foot-link: 'http://google.com',
+  heading: 'This is bullshit',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
