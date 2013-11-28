@@ -13,13 +13,20 @@ a:link, a:visited, a:active, a:hover
 
 .box
   box-sizing: border-box
+  -moz-box-sizing: border-box
   padding-top: 17px
   font-size: 40px
+  line-height: 43px
   color: #fff
   text-align: center
   border: 3px solid #8b2d05
   border-radius: 6px
   text-shadow: 0px 1px 2px #000
+
+
+  // only for firefox
+  &, x:-moz-any-link, x:default
+    line-height: 50px
 
 #wrapper
   position: relative
@@ -77,6 +84,7 @@ a:link, a:visited, a:active, a:hover
     .close
       position: absolute
       box-sizing: border-box
+      -moz-box-sizing: border-box
       top: 10px
       right: 10px
       width: 40px
@@ -84,10 +92,12 @@ a:link, a:visited, a:active, a:hover
       background-color: #fff
       border: 3px solid #000
       border-radius: 20px
-      padding-top: 14px
+      padding-top: 18px
+      padding-left: 0
+      font-family: 'Arial'
       line-height: 0
       text-align: center
-      font-size: 40px
+      font-size: 50px
       cursor: pointer
       opacity: 0.5
 
@@ -104,6 +114,7 @@ a:link, a:visited, a:active, a:hover
       .left
         float: left 
         box-sizing: border-box
+        -moz-box-sizing: border-box
         width: 125px
         color: #c4c3c3
 
@@ -117,6 +128,7 @@ a:link, a:visited, a:active, a:hover
       .right
         float: left
         box-sizing: border-box
+        -moz-box-sizing: border-box
         width: 475px
         padding: 10px 20px 10px 0
 
