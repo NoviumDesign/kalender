@@ -1,5 +1,5 @@
 ---
-title: Julkallender
+title: Eventmarkets julkalender 2013
 body_class: index
 ---
 
@@ -12,13 +12,13 @@ body_class: index
   - data.texts.date.each do |data|
     .popup.hide{:id => "popup#{data['date']}", :style => "background-color:#{data['background']}"}
       .close ×
-      %img.head(src="#{data['image-head']}")
+      %img.head(src="/images/#{data['image-head']}")
       .body
         .left
           .box= data['date']
         .right
           %h1= data['heading']
           =data['text']
-      %a.foot{:href => "#{data['foot-link']}", :style => "background-image: url('#{data['image-foot']}')"}
+      %a.foot{:href => "#{data['foot-link']}", :style => "background-image: url('/images/#{data['image-foot']}')"}
 
   .darken.hide

@@ -67,16 +67,19 @@ configure :build do
   # Minify Javascript on build
   activate :minify_javascript
 
+  # Minify HTML
+  activate :minify_html
+
   # Enable cache buster
-  # activate :cache_buster
+  activate :cache_buster
 
   # Use relative URLs
   # activate :relative_assets
 
   # Compress PNGs after build
   # First: gem install middleman-smusher
-  # require "middleman-smusher"
-  # activate :smusher
+  require "middleman-smusher"
+  activate :smusher
 
   # Or use a different image path
   # set :http_path, "/Content/images/"

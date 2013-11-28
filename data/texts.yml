@@ -1,31 +1,241 @@
 date:
 
 - {
-    date: 1,
-    background: '#fff',
-    image-head: 'http://placehold.it/600x150',
-    image-foot: 'http://placehold.it/600x100',
-    foot-link: 'http://google.com',
-    heading: 'This is bullshit',
-    text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
-  }
+  date: 1,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: '1:a advent!',
+  text: '<p>Varmt välkomna till eventmarkets Julkalender 2013. Du har just öppnat lucka 1, vilket i år infaller på första advent! Vi drar igång lite lugnt, men kommer braka på med vinstlotteri i stort sett varje dag fram till julafton. I morgon tex. så lottar vi ut en härlig kryssning och på tisdag ett rungande Julbord för två... Det nalkas även Afternoon Tea, SPA, biobiljetter, hotellnätter och kul presentkort... Nej, nu kan vi inte avslöja mer :)</p> <p>Känner du förresten till sökportalen eventmarket.com? För drygt 15 år sedan, så kände vi ett stort behov av att samla ihop och strukturera hela vår event- & mötesbransch. Den största anledningen till detta var just för att underlätta för alla som behöver komma i direktkontakt med artister, arrangörer, festlokaler och konferensanläggningar.... ja till och med cateringfirmor, uthyrningsföretag och Bajamajor! Å på den vägen är det...</p><p><a href="http://www.eventmarket.com/Eventmarket/Internet/ShowEMNews.aspx?EMNewsID=19397">» Läs mer</a></p><p>Känner du för att baka lite så bjuder vi här på ett recept på <a href="http://www.eventmarket.com/Eventmarket/Internet/ShowEMNews.aspx?EMNewsID=32754">» Saffranssnittar!</a></p>'
+}
+
+- {
+  date: 2,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 3,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 4,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 5,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 6,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 7,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 8,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 9,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 10,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 11,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 12,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 13,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 14,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 15,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 16,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 17,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 18,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 19,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 20,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 21,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
+
+- {
+  date: 22,
+  background: '#fff',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
+  text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
+}
 
 - {
   date: 23,
   background: '#fff',
-  image-head: 'http://placehold.it/600x150',
-  image-foot: 'http://placehold.it/600x100',
-  foot-link: 'http://google.com',
-  heading: 'This is bullshit',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
   text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
 }
 
 - {
   date: 24,
   background: '#fff',
-  image-head: 'http://placehold.it/600x150',
-  image-foot: 'http://placehold.it/600x100',
-  foot-link: 'http://google.com',
-  heading: 'This is bullshit',
+  image-head: 'lucktop-1.jpg',
+  image-foot: 'luckfot-1.jpg',
+  foot-link: 'http://www.eventmarket.com',
+  heading: 'En mycket trevlig rubrikrad',
   text: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae mi lacinia purus pharetra interdum ac eu enim. Cras sed rhoncus tellus, in gravida urna.</p> <p>Vestibulum nec <a href="#">posuere</a> tortor, et suscipit libero.<p>'
 }
